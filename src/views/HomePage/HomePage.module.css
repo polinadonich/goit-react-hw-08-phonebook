@@ -1,0 +1,17 @@
+.container {
+  width: 680px;
+  margin: 0 auto;
+  /* outline: 1px solid red; */
+}
+
+.title {
+  margin-bottom: 20px;
+  color: rgb(78, 78, 78);
+}
+
+.img {
+  width: 680px;
+  display: block;
+  border-radius: 10px;
+  background-size: cover;
+}

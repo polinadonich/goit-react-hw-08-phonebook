@@ -1,0 +1,18 @@
+.findLable {
+  font-weight: 500;
+}
+
+.find {
+  display: block;
+  margin-top: 10px;
+  border-radius: 5px;
+  height: 20px;
+  border: 2px solid #686b6b;
+  width: 200px;
+  outline: none;
+}
+
+.find:hover,
+.find:focus {
+  border: 2px solid #009688;
+}

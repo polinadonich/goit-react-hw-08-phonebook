@@ -1,0 +1,11 @@
+.container {
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 18px 18px;
+  width: 800px;
+  min-height: 600px;
+  background-color: rgb(243, 243, 243);
+  /* border: solid 3px rgb(199, 231, 227); */
+  border-radius: 20px;
+  /* outline: 1px solid rgb(111, 0, 255); */
+}

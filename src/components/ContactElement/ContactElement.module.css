@@ -1,0 +1,18 @@
+.number {
+  padding-left: 10px;
+  padding-right: 20px;
+  font-size: 18px;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(158, 213, 230);
+}
+
+.name {
+  font-weight: 500;
+  font-size: 20px;
+}

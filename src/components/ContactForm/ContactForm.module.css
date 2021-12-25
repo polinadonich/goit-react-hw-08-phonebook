@@ -1,0 +1,35 @@
+.lableContact {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+
+  font-size: 18px;
+}
+
+.lableContact:hover,
+.lableContact:focus {
+  color: #009688;
+}
+
+.inputContact {
+  display: block;
+  border-radius: 5px;
+  height: 30px;
+  border: 2px solid #686b6b;
+  width: 300px;
+  outline: none;
+}
+
+.inputContact:hover,
+.inputContact:focus {
+  border: 2px solid #009688;
+}
+
+.button {
+  cursor: pointer;
+  /* background-color: aqua; */
+}
+
+.button:hover {
+  background-color: rgb(158, 213, 230);
+}

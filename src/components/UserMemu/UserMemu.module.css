@@ -1,0 +1,16 @@
+.user {
+  color: rgb(51, 50, 50);
+  /* display: flex;
+  justify-content: flex-end; */
+  margin-left: 100px;
+  /* font-family: Oxygen; */
+}
+
+.email {
+  color: #036b69;
+  font-weight: bold;
+}
+
+.button {
+  margin-left: 20px;
+}
